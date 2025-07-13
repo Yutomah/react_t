@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "@vitejs/plugin-react": "^4.6.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "vite": "^7.0.4"
+  },
+  "name": "react_t",
+  "version": "1.0.0",
+  "main": "main.jsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
